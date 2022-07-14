@@ -46,7 +46,7 @@ object Expressions extends App {
     i += 1
   }
   // don't ever write the above code in Scala again!
-  // looping in general is specific to imperitive programming. Don't write imperative code in scala
+  // looping in general is specific to imperative programming. Don't write imperative code in scala
 
   val weirdValue: Unit = (aVariable = 3) // `Unit` is like void in Java
   // the only value a Unit can hold is ()
